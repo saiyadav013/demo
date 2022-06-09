@@ -32,5 +32,9 @@ public class personaldetails {
 	public String toString() {
 		return "Student [id=" + id + ", name=" + name + ", address=" + address + "]";
 	}
+	public void returnName()
+	{
+		System.out.println("this is sai");
+	}
 
 }
